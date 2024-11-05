@@ -1,5 +1,0 @@
-/mnt/c/Users/Julien/OneDrive/Desktop/RN HAs/rn-praxis/build/CMakeFiles/webserver.dir
-/mnt/c/Users/Julien/OneDrive/Desktop/RN HAs/rn-praxis/build/CMakeFiles/package.dir
-/mnt/c/Users/Julien/OneDrive/Desktop/RN HAs/rn-praxis/build/CMakeFiles/package_source.dir
-/mnt/c/Users/Julien/OneDrive/Desktop/RN HAs/rn-praxis/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Julien/OneDrive/Desktop/RN HAs/rn-praxis/build/CMakeFiles/rebuild_cache.dir
